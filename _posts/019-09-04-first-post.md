@@ -1,0 +1,153 @@
+---
+title: "O-Joun Lee"
+date: 2019-10-04 09:26:28 -0400
+categories: CV
+---
+
+[[File:O-JounLee.jpg|thumb|alt=A cartoon centipede reads books and types on a laptop.|O-Joun Lee]]
+'''Ph.D. in Computer Science and Engineering'''
+
+DBLP[http://dblp.uni-trier.de/pers/hd/l/Lee:O=Joun], Google Scholar Citation[https://scholar.google.com/citations?user=43GFjoYAAAAJ&hl=en], ORCID[http://orcid.org/0000-0001-8921-5443], Researchgate[https://www.researchgate.net/profile/O_Joun_Lee], Scopus Author ID[https://www.scopus.com/authid/detail.uri?authorId=57150108800], Publons[https://publons.com/researcher/268401/o-joun-lee/]
+== Education == <!--T:5-->
+* Mar 2015 – Aug 2019: Chung-Ang University, Seoul, South Korea
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D., Major in Application Software, School of Computer Science and Engineering
+
+* Mar 2011 – Feb 2015: Dankook University, Yongin-si, Gyeonggi-do, South Korea
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Engineering, Dept. of Software science
+
+== Thesis == <!--T:5-->
+* O-Joun Lee: Learning Distributed Representations of Character Networks for Computational Narrative Analytics. 06/2019, Degree: Ph.D. in Computer Science and Engineering, Supervisor: Jason J. Jung
+
+== Research Experience == <!--T:5-->
+* Sep 2019 – present: Full-time Researcher, Pohang University of Science and Technology (POSTECH), Department of Creative IT Engineering, Pohang, Gyeongsangbuk-do, South Korea
+
+* Sep 2018 – present: Technical Research Personnel, Alternative Military Service
+
+* Mar 2015 – Sep 2019: Researcher, Chung-Ang University, School of Computer Science and Engineering, Seoul, South Korea
+
+* Jul 2014 – Aug 2014: Intern, Korea Institute of Science and Technology Information (KISTI), Dept. of Computer Intelligence Research, Daejeon, South Korea
+
+* Mar 2013 – Aug 2014: Research Associate, Dankook University, Institute of Media Contents, Yongin-si, Gyeonggi-do, South Korea
+
+* May 2011 – Aug 2014: Undergraduate Researcher, Dankook University, Department of Software Science, Yongin-si, Gyeonggi-do, South Korea
+
+== Awards & Grants == <!--T:5-->
+* Apr 2019: '''Best Paper Award''', 2019 Spring Conference of Korea Institute of Smart Media (KISM) and Society for e-Business Studies (SEBS), Chungju, Korea
+* Sep 2017: '''Best Paper Award''', The 2nd International Workshop in Data Mining on IoT Systems (DaMIS 2017), Lund, Sweden
+* Aug 2017: '''Best Poster Award''', The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea
+* Nov 2016: '''Best Paper Award''', The 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea
+* Nov 2015: '''Best Paper Award''', The 4th EAI International Conference on Context-Aware Systems and Applications (ICCASA 2015), Vung Tau, Vietnam
+
+== Journal Publications == <!--T:5-->
+* O-Joun Lee, Jason J. Jung: Integrating character networks for extracting narratives from multimodal data. Information Processing & Management 09/2019; 56(5):1894-1923., DOI:10.1016/j.ipm.2019.02.005
+
+* O-Joun Lee, Jason J. Jung: Modeling affective character network for story analytics. Future Generation Computer Systems 03/2019; 92:458-478., DOI:10.1016/j.future.2018.01.030
+
+* Khac Hoai Nam Bui, Sungrae Cho, Jason J. Jung, Joongheon Kim, O-Joun Lee, Woongsoo Na: A novel network virtualization based on data analytics in connected environment. Journal of Ambient Intelligence and Humanized Computing 10/2018;, DOI:10.1007/s12652-018-1083-x (To appear)
+
+* Jae-Hong Park, O-Joun Lee, Jai E. Jung: Spatio-temporal query contextualization for microtext retrieval in social media. Concurrency and Computation Practice and Experience 08/2018; 30(15):e4458., DOI:10.1002/cpe.4458
+
+* O-Joun Lee, Jai E. Jung: Owner-Borrower Model for Recommenders in O2O Services. Mobile Networks and Applications 08/2018; 23(4):1089-1096., DOI:10.1007/s11036-018-1073-4
+
+* O-Joun Lee, Yunhu Kim, Hoang Long Nguyen, Jai E Jung: Multi-scaled Spatial Analytics on Discovering Latent Social Events for Smart Urban Services. Journal of Universal Computer Science 03/2018; 24(3):322–337.
+
+* Jae-Hong Park, O-Joun Lee, Joo-Man Han, Eon-Ji Lee, Jason J. Jung, Luca Carratore, Francesco Piccialli: Spatio-Temporal Contextualization of Queries for Microtexts in Social Media: Mathematical Modeling. Procedia Computer Science 09/2017; 113:525-530., DOI:10.1016/j.procs.2017.08.317
+
+* Quang Dieu Tran, Dosam Hwang, O-Joun Lee, Jai E. Jung: Exploiting Character Networks for Movie Summarization. Multimedia Tools and Applications 04/2017; 76(8):10357–10369., DOI:10.1007/s11042-016-3633-6
+
+* Jai E. Jung†, O-Joun Lee†‡, Eun-Soon You†, Myoung-Hee Nam†: A Computational Model of Transmedia Ecosystem for Story-based Contents. Multimedia Tools and Applications 04/2017; 16(8):10371–10388., DOI:10.1007/s11042-016-3626-5 († Co-first Authors, ‡ Corresponding Author)
+
+* Hoang Long Nguyen, O-Joun Lee, Jai E. Jung, Jaehwa Park, Tai-Won Um, Hyun-Woo Lee: Event-driven Trust Refreshment on Ambient Services. IEEE Access 03/2017; 5:4664 - 4670., DOI:10.1109/ACCESS.2017.2677917
+
+* O-Joun Lee, Hoang Long Nguyen, Jai E. Jung, Hyun-Woo Lee, Tai-Won Um: Towards Ontological Approach on Trust-aware Ambient Services. IEEE Access 02/2017; 5:1589 - 1599., DOI:10.1109/ACCESS.2017.2663407
+
+* O-Joun Lee, Jai E. Jung: Sequence Clustering-based Automated Rule Generation for Adaptive Complex Event Processing. Future Generation Computer Systems 01/2017; 66:100–109., DOI:10.1016/j.future.2016.02.011
+
+* O-joun Lee†, Min-sung Hong†, Jason J. Jung, Juhyun Shin, Pankoo Kim: Adaptive Collaborative Filtering Based on Scalable Clustering for Big Recommender Systems. Acta Polytechnica Hungarica 02/2016; 13(2). DOI:10.12700/APH.13.2.2016.2.10 († Co-first Authors)
+
+* O-Joun Lee, Eun-Soon You: Predictive Clustering-based Collaborative Filtering Technique for Performance-Stability of Recommendation System. 03/2015; 21(1). DOI:10.13088/jiis.2015.21.1.121
+
+* Hea-Jeong Jeon, Seung-Bo Park, O-Joun Lee, Eun-Soon You: Design of Narrative Text Visualization Through Character-net. 02/2015; 15(2). DOI:10.5392/JKCA.2015.15.02
+
+* Min-Sung Hong, O-Joun Lee, Won-Jin Lee, Kee-Won Kim, Seung-Hoon Kim, Hee-Jung Han, Jae-Dong Lee: Meta-data Configuration and Learning Technique for Wellness Content Recommendation. International journal on information 11/2014; 17(11(A)).
+
+* O-Joun Lee, Seung-Bo Park, Daul Chung, Eunsoon You: Movie Box-office Analysis using Social Big Data. 10/2014; 14(10). DOI:10.5392/JKCA.2014.14.10.527
+
+* Hyunsik Kim, Seung-Bo Park, O-Joun Lee, Yeong-Tae Baek, Eun-Soon You: Authoring Support Technique Using Text Analysis-based Dialogue History Tracking. 09/2014; 19(9). DOI:10.9708/jksci.2012.17.9.001
+
+* Min-Sung Hong, O-Joun Lee, Won-Jin Lee, Jae-Dong Lee: Meta-data Configuration and Wellness Feature Analysis Technique for Wellness Content Recommendation. 08/2014; 19(8). DOI:10.9708/jksci.2014.19.8.083
+
+* O-Joun Lee, Min-Sung Hong, Won-Jin Lee, Jae-Dong Lee: Scalable Collaborative Filtering Technique based on Adaptive Clustering. 06/2014; 20(2). DOI:10.13088/jiis.2014.20.2.073
+
+* O-Joun Lee, Yeong-Tae Baek: Hybrid Preference Prediction Technique Using Weighting based Data Reliability for Collaborative Filtering Recommendation System. 05/2014; 19(5). DOI:10.9708/jksci.2014.19.5.061
+
+== Book Chapters == <!--T:5-->
+
+* Nam Bui Khac Hoai, Sungrae Cho, Jason J. Jung, Joongheon Kim, O-Joun Lee, Woongsoo Na: Network Engineering: Towards Data-Driven Framework for Network Configuration. Big Data Technologies and Applications - 8th International Conference on Big Data Technologies and Applications (BDTA 2017), Edited by Jason J. Jung, Pankoo Kim, Kwang Nam Choi, 11/2018: pages 60-65; Springer International Publishing., ISBN: 978-3-319-98751-4, DOI:10.1007/978-3-319-98752-1_7
+
+* Quang Dieu Tran, Dosam Hwang, O-Joun Lee, Jason J. Jung: A Novel Method for Extracting Dynamic Character Network from Movie. Big Data Technologies and Applications - 7th International Conference on Big Data Technologies and Applications (BDTA 2016), Edited by Jason J. Jung, Pankoo Kim, 06/2017: pages 48-53; Springer International Publishing., ISBN: 978-3-319-58967-1, DOI:10.1007/978-3-319-58967-1_6
+
+* Khac-Hoai Nam Bui, O-Joun Lee, Jason J. Jung, David Camacho: Dynamic Traffic Light Control System Based on Process Synchronization Among Connected Vehicles. Ambient Intelligence- Software and Applications – 7th International Symposium on Ambient Intelligence (ISAmI 2016), Edited by Helena Lindgren, Juan F. De Paz, Paulo Novais, Antonio Fernández-Caballero, Hyun Yoe, Andres Jiménez Ramírez, Gabriel Villarrubia, 05/2016: pages 77-85; Springer International Publishing., ISBN: 978-3-319-40113-3, DOI:10.1007/978-3-319-40114-0_9
+
+* Khac-Hoai Nam Bui, Xuan Hau Pham, Jason J. Jung, O-Joun Lee, Min-Sung Hong: Context-Based Traffic Recommendation System. Context-Aware Systems and Applications - 4th International Conference on Context-Aware Systems and Applications (ICCASA 2015), Edited by Cong Vinh Phan, Alagar Vangalur, 04/2016: pages 122-131; Springer International Publishing., ISBN: 978-3-319-29235-9, DOI:10.1007/978-3-319-29236-6_13
+
+* Myeong-Yeon Yi, O-Joun Lee, Jason J. Jung: MBTI-based Collaborative Recommendation System: A Case Study of Webtoon Contents. Context-Aware Systems and Applications - 4th International Conference on Context-Aware Systems and Applications (ICCASA 2015), Edited by Cong Vinh Phan, Alagar Vangalur, 04/2016: pages 101-110; Springer International Publishing., ISBN: 978-3-319-29236-6, DOI:10.1007/978-3-319-29236-6_11
+
+* O-Joun Lee, Eunsoon You, Min-Sung Hong, Jason J. Jung: Adaptive Complex Event Processing Based on Collaborative Rule Mining Engine. Intelligent Information and Database Systems - 7th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2015,), Edited by Ngoc Thanh Nguyen, Bogdan Trawinski, Raymond Kosala, 03/2015: pages 430–439; Springer International Publishing., ISBN: 978-3-319-15701-6, DOI:10.1007/978-3-319-15702-3_42
+
+== Conference Proceedings == <!--T:5-->
+* O-Joun Lee, Jason J. Jung: Computational Narrative Representation and Analytics. the 2nd International Conference on AI Humanities (ICAIH 2019), Seoul, Republic of Korea; 08/2019
+
+* Luong Vuong Nguyen, O-Joun Lee, Hoang Long Nguyen, Sojung An, Jason J. Jung, Yue-Shan Chang: Crowdsourcing System for Measuring Cognitive Similarity in Recommendation System. 2019 ISSAT International Conference on Data Science in Business, Finance and Industry, Da Nang, Vietnam; 07/2019
+
+* O-Joun Lee, Jason J. Jung: Character Network Embedding-based Plot Structure Discovery in Narrative Multimedia. The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea; 06/2019, DOI:10.1145/3326467.3326485
+
+* O-Joun Lee, Nayoung Jo, Jason J. Jung: Measuring Character-based Story Similarity by Analyzing Movie Scripts. The 1st Workshop on Narrative Extraction From Text (Text2Story 2018), co-located with the 40th European Conference on Information Retrieval (ECIR 2018), Grenoble, France; 03/2018
+
+* O-Joun Lee, Jason J. Jung: Explainable Movie Recommendation Systems by using Story-based Similarity. The workshop on Explainable Smart Systems (ExSS 2018), held in conjunction with the 23rd International Conference on Intelligent User Interfaces (IUI 2018), Tokyo, Japan; 03/2018
+
+* Jason J. Jung, Minsung Hong, O-Joun Lee, Jaehong Park, Chang Choi: Towards Affective Lifelogging with Information Fusion. The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea; 08/2017, DOI:10.1109/IE.2017.25
+
+* O-Joun Lee, Jason J. Jung: Affective Character Network for Understanding Plots of Narrative Contents. The 1st International Workshop on Affective Computing and Context Awareness in Ambient Intelligence (AfCAI 2016), Murcia, Spain; 11/2016
+
+* O-Joun Lee, Jason J. Jung, Eunsoon You: Predictive Clustering for Performance Stability in Collaborative Filtering Techniques. The 2nd IEEE International Conference on Cybernetics (CYBCONF 2015), Gdynia, Poland; 06/2015, DOI:10.1109/CYBConf.2015.7175905
+
+* Min-Sung Hong, O-Joun Lee, Jason J. Jung: Adaptive Clustering for Scalable Collaborative Filtering in Recommender Systems. The 3rd International Conference on Smart Media and Applications, Chiang Mai, Thailand; 12/2014, DOI:10.13140/2.1.1441.0566
+
+* O-Joun Lee: Character Classification via Action-Reaction Chain Clustering. The First International Symposium on Computational Story (CompStory14), Seoul, Korea; 09/2014, DOI:10.13140/2.1.2568.7360
+
+* Min-Sung Hong, O-Joun Lee, Gyu-Chan Lim, Se-Jun Park, Seung-Hoon Kim, Jae-Dong Lee: Meta-data Configuration and Learning Technique for Wellness Content Recommendation. International Conference on Computer Applications and Information Processing Technology (CAIPT 2014), Ulaanbaatar, Mongolia; 06/2014
+
+== Patents == <!--T:5-->
+
+* Jason J. Jung, O-Joun Lee: Method and apparatus for content analysis including story. Ref. No: KR 1020180058510, Year: 05/2018
+
+* Jason J. Jung, Jaehong Park, O-Joun Lee, Min-Sung Hong: Server and Method for providing search results using SNS date, Recording medium for performing the method. Ref. No: KR 1020170165067, Year: 12/2017
+
+* Jason J. Jung, Min-Sung Hong, O-Joun Lee: Apparatus and Method for recommending item to user group using emotion information. Ref. No: KR1020170042015, Year: 03/2017
+
+* Jason J. Jung, Min-Sung Hong, O-Joun Lee: Apparatus and Method for recommending item for user group. Ref. No: KR1020170033241, Year: 03/2017
+
+* Jason J. Jung, O-Joun Lee: Method and Apparatus for matching identification information of plurality of SNS. Ref. No: KR 1020150128425, Year: 09/2015
+
+* Jason J. Jung, O-Joun Lee: Event processing system, Event processing method and Computer program. Ref. No: KR1020150099077, Year: 07/2015
+
+* Hyun-Sik Kim, Seung-Bo Park, Eun-Soon You, O-Joun Lee, Byung Joon Cho: APPARATUS AND METHOD FOR SUPPORTING WRITER BY TRACING CONVERSATION BASED ON TEXT ANALYSIS. Ref. No: KR1020150057199, Year: 04/2015
+
+* O-Joun Lee, Eun-Soon You, Byung Joon Cho: APPARATUS AND METHOD FOR PREDICTIVE CLUSTERING-BASED COLLABORATIVE FILTERING. Ref. No: KR1020150042144, Year: 03/2015
+
+* Jae-Dong Lee, Seung-Hun Kim, Min-Sung Hong, Kee-Won Kim, O-Joun Lee, Won-Jin Lee: APPARATUS FOR ANALYZING CONTENTS AND METHOD THEREOF. Ref. No: KR1020140093024, Year: 07/2014
+
+* O-Joun Lee, Jae-Dong Lee, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Gyu-Chan Lim: APPARATUS AND METHOD FOR HYBRID FILTERING CONTENT RECOMMENDATION USING USER PROFILE AND CONTEXT INFORMATION BASED ON PREFERENCE. Ref. No: KR1020140027866, Year: 03/2014
+
+* O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR1020140027865, Year: 03/2014
+
+== Academic Activities == <!--T:5-->
+
+* Committee Member, The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea, 06/2019.
+
+* Member of Technical Program Committee, The 8th EAI International Conference on Big Data Technologies and Applications (BDTA 2017), Gwangju, Korea, 11/2017.
+
+* Committee Member, The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea, 08/2017.
+
+* Workshop Chair, The 1st International Workshop on Digital Humanity with Big Data (DiHuBiDa 2016), affiliated with the 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea, 11/2016.
