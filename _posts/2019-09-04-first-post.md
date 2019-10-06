@@ -43,7 +43,8 @@ Awards & Grants
 * Nov 2016: '''Best Paper Award''', The 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea
 * Nov 2015: '''Best Paper Award''', The 4th EAI International Conference on Context-Aware Systems and Applications (ICCASA 2015), Vung Tau, Vietnam
 
-== Journal Publications == <!--T:5-->
+Journal Publications
+============
 * O-Joun Lee, Jason J. Jung: Integrating character networks for extracting narratives from multimodal data. Information Processing & Management 09/2019; 56(5):1894-1923., DOI:10.1016/j.ipm.2019.02.005
 
 * O-Joun Lee, Jason J. Jung: Modeling affective character network for story analytics. Future Generation Computer Systems 03/2019; 92:458-478., DOI:10.1016/j.future.2018.01.030
@@ -86,8 +87,8 @@ Awards & Grants
 
 * O-Joun Lee, Yeong-Tae Baek: Hybrid Preference Prediction Technique Using Weighting based Data Reliability for Collaborative Filtering Recommendation System. 05/2014; 19(5). DOI:10.9708/jksci.2014.19.5.061
 
-== Book Chapters == <!--T:5-->
-
+Book Chapters
+============
 * Nam Bui Khac Hoai, Sungrae Cho, Jason J. Jung, Joongheon Kim, O-Joun Lee, Woongsoo Na: Network Engineering: Towards Data-Driven Framework for Network Configuration. Big Data Technologies and Applications - 8th International Conference on Big Data Technologies and Applications (BDTA 2017), Edited by Jason J. Jung, Pankoo Kim, Kwang Nam Choi, 11/2018: pages 60-65; Springer International Publishing., ISBN: 978-3-319-98751-4, DOI:10.1007/978-3-319-98752-1_7
 
 * Quang Dieu Tran, Dosam Hwang, O-Joun Lee, Jason J. Jung: A Novel Method for Extracting Dynamic Character Network from Movie. Big Data Technologies and Applications - 7th International Conference on Big Data Technologies and Applications (BDTA 2016), Edited by Jason J. Jung, Pankoo Kim, 06/2017: pages 48-53; Springer International Publishing., ISBN: 978-3-319-58967-1, DOI:10.1007/978-3-319-58967-1_6
@@ -100,7 +101,8 @@ Awards & Grants
 
 * O-Joun Lee, Eunsoon You, Min-Sung Hong, Jason J. Jung: Adaptive Complex Event Processing Based on Collaborative Rule Mining Engine. Intelligent Information and Database Systems - 7th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2015,), Edited by Ngoc Thanh Nguyen, Bogdan Trawinski, Raymond Kosala, 03/2015: pages 430–439; Springer International Publishing., ISBN: 978-3-319-15701-6, DOI:10.1007/978-3-319-15702-3_42
 
-== Conference Proceedings == <!--T:5-->
+Conference Proceedings
+============
 * O-Joun Lee, Jason J. Jung: Computational Narrative Representation and Analytics. the 2nd International Conference on AI Humanities (ICAIH 2019), Seoul, Republic of Korea; 08/2019
 
 * Luong Vuong Nguyen, O-Joun Lee, Hoang Long Nguyen, Sojung An, Jason J. Jung, Yue-Shan Chang: Crowdsourcing System for Measuring Cognitive Similarity in Recommendation System. 2019 ISSAT International Conference on Data Science in Business, Finance and Industry, Da Nang, Vietnam; 07/2019
@@ -123,8 +125,8 @@ Awards & Grants
 
 * Min-Sung Hong, O-Joun Lee, Gyu-Chan Lim, Se-Jun Park, Seung-Hoon Kim, Jae-Dong Lee: Meta-data Configuration and Learning Technique for Wellness Content Recommendation. International Conference on Computer Applications and Information Processing Technology (CAIPT 2014), Ulaanbaatar, Mongolia; 06/2014
 
-== Patents == <!--T:5-->
-
+Patents
+============
 * Jason J. Jung, O-Joun Lee: Method and apparatus for content analysis including story. Ref. No: KR 1020180058510, Year: 05/2018
 
 * Jason J. Jung, Jaehong Park, O-Joun Lee, Min-Sung Hong: Server and Method for providing search results using SNS date, Recording medium for performing the method. Ref. No: KR 1020170165067, Year: 12/2017
@@ -147,8 +149,8 @@ Awards & Grants
 
 * O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR1020140027865, Year: 03/2014
 
-== Academic Activities == <!--T:5-->
-
+Academic Activities
+============
 * Committee Member, The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea, 06/2019.
 
 * Member of Technical Program Committee, The 8th EAI International Conference on Big Data Technologies and Applications (BDTA 2017), Gwangju, Korea, 11/2017.
