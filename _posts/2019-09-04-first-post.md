@@ -17,11 +17,9 @@ Academic Profiles
 
 Education
 ============
-* Mar 2015 – Aug 2019: Chung-Ang University, Seoul, South Korea
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D., Major in Application Software, School of Computer Science and Engineering
+* Mar 2015 – Aug 2019: Chung-Ang University, Seoul, South Korea <br> Ph.D., Major in Application Software, School of Computer Science and Engineering
 
-* Mar 2011 – Feb 2015: Dankook University, Yongin-si, Gyeonggi-do, South Korea
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Engineering, Dept. of Software science
+* Mar 2011 – Feb 2015: Dankook University, Yongin-si, Gyeonggi-do, South Korea <br> Bachelor of Engineering, Dept. of Software science
 
 Thesis
 ============
