@@ -8,7 +8,7 @@ categories: CV
 
 **Ph.D. in Computer Science and Engineering**
 
-> Narratives structure our understanding of the world and ourselves. 
+> Narratives structure our understanding of the world and ourselves. <br>
 > [_(Lakoff and Narayanan, 2010)_](https://www.aaai.org/ocs/index.php/FSS/FSS10/paper/viewFile/2323/2834)
 
 Academic Profiles
