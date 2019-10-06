@@ -1,22 +1,56 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "StoryQ: from Quantizing to Understanding Stories"
+date: 2019-10-06 08:26:28 -0400
+categories: Project
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+"Narratives structure our understanding of the world and ourselves." [https://www.aaai.org/ocs/index.php/FSS/FSS10/paper/viewFile/2323/2834]
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
+* PI: Jason J. Jung
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+* Participants: O-Joun Lee, Luong Vuong Nguyen, and Nayoung Jo
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+This research project aims to model and analyze stories of the narrative work (i.e., artworks that contain stories) computationally. Our previous studies on this area are mainly based on the character network (i.e., social networks between characters that appear in the narrative work). 
+
+Student’s Involvement and Expected Outcomes: 
+
+* Proposing a novel approach for modeling and analyzing stories. 
+
+* Developing an application which utilizes the character network. 
+
+* Developing and refactoring 'Character Network Builder' with multiple data sources (e.g., the script, video, and audio of movies).
+
+* Collecting data for experiments from real narrative works in various media, genres, and formats. 
+
+===Related Contributions===
+
+* Luong Vuong Nguyen: Movie Similarity Collector, [http://ke.cau.ac.kr:8080/movies/]
+
+* O-Joun Lee: Story2Vec, [[https://github.com/O-JounLee/Story2Vec github repository]]
+
+* Nayoung Jo: Character Network Extractor, [[https://github.com/O-JounLee/CharNet-Extractor github repository]]
+
+* O-Joun Lee, Nayoung Jo, Jason J. Jung: Measuring Character-based Story Similarity by Analyzing Movie Scripts. The 1st Workshop on Narrative Extraction From Text (Text2Story 2018), co-located with the 40th European Conference on Information Retrieval (ECIR 2018), Grenoble, France; 03/2018
+
+* O-Joun Lee, Jason J. Jung: Explainable Movie Recommendation Systems by using Story-based Similarity. The workshop on Explainable Smart Systems (ExSS 2018), held in conjunction with the 23rd International Conference on Intelligent User Interfaces (IUI 2018), Tokyo, Japan; 03/2018
+
+* O-Joun Lee, Jason J. Jung: Modeling affective character network for story analytics. Future Generation Computer Systems; DOI:10.1016/j.future.2018.01.030 (To appear)
+
+* Tran, Quang Dieu, Dosam Hwang, and Jason J. Jung. "Character-based indexing and browsing with movie ontology." Journal of Intelligent & Fuzzy Systems 32.2 (2017): 1229-1240.
+
+* Quang Dieu Tran, Dosam Hwang, O-Joun Lee, Jai E. Jung: Exploiting Character Networks for Movie Summarization. Multimedia Tools and Applications 04/2017; 76(8):10357–10369., DOI:10.1007/s11042-016-3633-6
+
+* Jai E. Jung†, O-Joun Lee†‡, Eun-Soon You†, Myoung-Hee Nam†: A Computational Model of Transmedia Ecosystem for Story-based Contents. Multimedia Tools and Applications 04/2017; 16(8):10371–10388., DOI:10.1007/s11042-016-3626-5 († Co-first Authors, ‡ Corresponding Author)
+
+* Quang Dieu Tran, Dosam Hwang, O.-Joun Lee, Jason J. Jung: A Novel Method for Extracting Dynamic Character Network from Movie. Big Data Technologies and Applications, Edited by Jason J. Jung, Pankoo Kim, 06/2017: pages 48-53; Springer International Publishing., ISBN: 978-3-319-58967-1, DOI:10.1007/978-3-319-58967-1_6
+
+* Myeong-Yeon Yi, O-Joun Lee, Jason J. Jung: MBTI-based Collaborative Recommendation System: A Case Study of Webtoon Contents. Context-Aware Systems and Applications, Edited by Cong Vinh Phan, Alagar Vangalur, 04/2016: pages 101-110; Springer International Publishing., ISBN: 978-3-319-29236-6, DOI:10.1007/978-3-319-29236-6_11
+
+* Tran, Quang Dieu, Dosam Hwang, and Jason J. Jung. "Movie summarization using characters network analysis." Computational Collective Intelligence. Springer, Cham, 2015. 390-399.
+
+* Tran, Quang Dieu, and Jai E. Jung. "CoCharNet: Extracting Social Networks using Character Co-occurrence in Movies." J. UCS 21.6 (2015): 796-815.
+
+* Jason J. Jung, Eunsoon You, and Seung-Bo Park. "Emotion-based character clustering for managing story-based contents: a cinemetric analysis." Multimedia tools and applications 65.1 (2013): 29-45.
+
+* Seung-Bo Park, Eunsoon You, and Jason J. Jung. "Potential emotion word in movie dialog." in Proceedings of the International Conference on IT Convergence and Security 2011. Springer, Dordrecht, 2012.
