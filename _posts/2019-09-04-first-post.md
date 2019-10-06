@@ -11,17 +11,18 @@ DBLP[http://dblp.uni-trier.de/pers/hd/l/Lee:O=Joun], Google Scholar Citation[htt
 
 Education
 ============
-
 * Mar 2015 – Aug 2019: Chung-Ang University, Seoul, South Korea
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D., Major in Application Software, School of Computer Science and Engineering
 
 * Mar 2011 – Feb 2015: Dankook University, Yongin-si, Gyeonggi-do, South Korea
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Engineering, Dept. of Software science
 
-== Thesis == <!--T:5-->
+Thesis
+============
 * O-Joun Lee: Learning Distributed Representations of Character Networks for Computational Narrative Analytics. 06/2019, Degree: Ph.D. in Computer Science and Engineering, Supervisor: Jason J. Jung
 
-== Research Experience == <!--T:5-->
+Research Experience
+============
 * Sep 2019 – present: Full-time Researcher, Pohang University of Science and Technology (POSTECH), Department of Creative IT Engineering, Pohang, Gyeongsangbuk-do, South Korea
 
 * Sep 2018 – present: Technical Research Personnel, Alternative Military Service
@@ -34,7 +35,8 @@ Education
 
 * May 2011 – Aug 2014: Undergraduate Researcher, Dankook University, Department of Software Science, Yongin-si, Gyeonggi-do, South Korea
 
-== Awards & Grants == <!--T:5-->
+Awards & Grants
+============
 * Apr 2019: '''Best Paper Award''', 2019 Spring Conference of Korea Institute of Smart Media (KISM) and Society for e-Business Studies (SEBS), Chungju, Korea
 * Sep 2017: '''Best Paper Award''', The 2nd International Workshop in Data Mining on IoT Systems (DaMIS 2017), Lund, Sweden
 * Aug 2017: '''Best Poster Award''', The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea
