@@ -4,7 +4,8 @@ date: 2019-10-04 09:26:28 -0400
 categories: CV
 ---
 
-[[File:O-JounLee.jpg|thumb|alt=A cartoon centipede reads books and types on a laptop.|O-Joun Lee]]
+![IMG_1287](https://user-images.githubusercontent.com/8544846/66268133-2f116e80-e875-11e9-9ef5-88d88324a6a0.JPG)
+
 **Ph.D. in Computer Science and Engineering**
 
 [DBLP](http://dblp.uni-trier.de/pers/hd/l/Lee:O=Joun), [Google Scholar Citation](https://scholar.google.com/citations?user=43GFjoYAAAAJ&hl=en), [ORCID](http://orcid.org/0000-0001-8921-5443), [Researchgate](https://www.researchgate.net/profile/O_Joun_Lee), [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=57150108800), [Publons](https://publons.com/researcher/268401/o-joun-lee/), [Loop](https://loop.frontiersin.org/people/800687/overview)
