@@ -8,7 +8,10 @@ categories: CV
 '''Ph.D. in Computer Science and Engineering'''
 
 DBLP[http://dblp.uni-trier.de/pers/hd/l/Lee:O=Joun], Google Scholar Citation[https://scholar.google.com/citations?user=43GFjoYAAAAJ&hl=en], ORCID[http://orcid.org/0000-0001-8921-5443], Researchgate[https://www.researchgate.net/profile/O_Joun_Lee], Scopus Author ID[https://www.scopus.com/authid/detail.uri?authorId=57150108800], Publons[https://publons.com/researcher/268401/o-joun-lee/]
-== Education == <!--T:5-->
+
+Education
+============
+
 * Mar 2015 – Aug 2019: Chung-Ang University, Seoul, South Korea
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D., Major in Application Software, School of Computer Science and Engineering
 
