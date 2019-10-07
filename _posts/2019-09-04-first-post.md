@@ -168,5 +168,20 @@ Conference Committee
 
 Peer Review
 ------------
-* Reviewer, Concurrency and Computation: Practice and Experience, since 2019
+* Reviewer, IEEE Transactions on Industrial Informatics, since Jul 2019
+
+* Reviewer, Journal of Ambient Intelligence and Humanized Computing, since Jun 2019
+
+* Reviewer, Open Engineering, since Jan 2019
+
+* Reviewer, Concurrency and Computation: Practice and Experience, since Jan 2019
+
+* Reviewer, International Journal of Information Management, since Dec 2018
+
+* Reviewer, IEEE Access, since Jul 2018
+
+* Reviewer, Future Generation Computer Systems, since Nov 2017
+
+* Reviewer, Multimedia Tools and Applications, since Aug 2017
+
 
