@@ -165,3 +165,8 @@ Conference Committee
 * Committee Member, The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea, 08/2017.
 
 * Workshop Chair, The 1st International Workshop on Digital Humanity with Big Data (DiHuBiDa 2016), affiliated with the 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea, 11/2016.
+
+Peer Review
+------------
+* Reviewer, Concurrency and Computation: Practice and Experience, since 2019
+
