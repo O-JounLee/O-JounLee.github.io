@@ -168,9 +168,13 @@ Conference Committee
 
 Peer Review
 ------------
+* Reviewer, Journal of Artificial Intelligence Humanities, since Oct 2019
+
 * Reviewer, IEEE Transactions on Industrial Informatics, since Jul 2019
 
 * Reviewer, Journal of Ambient Intelligence and Humanized Computing, since Jun 2019
+
+* Reviewer, Smart Media Journal, since Apr 2019
 
 * Reviewer, Open Engineering, since Jan 2019
 
