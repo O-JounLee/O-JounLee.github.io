@@ -1,5 +1,5 @@
 ---
-title: "O-Joun Lee"
+title: "O-Joun Lee, Ph. D."
 date: 2019-10-04 09:26:28 -0400
 categories: CV
 ---
