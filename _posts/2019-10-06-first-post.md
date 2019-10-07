@@ -28,11 +28,11 @@ Student’s Involvement and Expected Outcomes:
 
 Implementations
 ======
-* Luong Vuong Nguyen: Movie Similarity Collector, [http://ke.cau.ac.kr:8080/movies/]
+* Luong Vuong Nguyen: [Movie Similarity Collector](http://ke.cau.ac.kr:8080/movies/)
 
-* O-Joun Lee: Story2Vec, [[https://github.com/O-JounLee/Story2Vec github repository]]
+* O-Joun Lee: Story2Vec, [github repository](https://github.com/O-JounLee/Story2Vec)
 
-* Nayoung Jo: Character Network Extractor, [[https://github.com/O-JounLee/CharNet-Extractor github repository]]
+* Nayoung Jo: Character Network Extractor, [github repository](https://github.com/O-JounLee/CharNet-Extractor)
 
 Related Contributions
 ======
