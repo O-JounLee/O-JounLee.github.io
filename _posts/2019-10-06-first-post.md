@@ -5,7 +5,8 @@ categories: Project
 ---
 
 
-"Narratives structure our understanding of the world and ourselves." [https://www.aaai.org/ocs/index.php/FSS/FSS10/paper/viewFile/2323/2834]
+> "Narratives structure our understanding of the world and ourselves." 
+> [https://www.aaai.org/ocs/index.php/FSS/FSS10/paper/viewFile/2323/2834]
 
 * PI: Jason J. Jung
 
@@ -23,14 +24,16 @@ Student’s Involvement and Expected Outcomes:
 
 * Collecting data for experiments from real narrative works in various media, genres, and formats. 
 
-===Related Contributions===
-
+Implementations
+======
 * Luong Vuong Nguyen: Movie Similarity Collector, [http://ke.cau.ac.kr:8080/movies/]
 
 * O-Joun Lee: Story2Vec, [[https://github.com/O-JounLee/Story2Vec github repository]]
 
 * Nayoung Jo: Character Network Extractor, [[https://github.com/O-JounLee/CharNet-Extractor github repository]]
 
+Related Contributions
+======
 * O-Joun Lee, Nayoung Jo, Jason J. Jung: Measuring Character-based Story Similarity by Analyzing Movie Scripts. The 1st Workshop on Narrative Extraction From Text (Text2Story 2018), co-located with the 40th European Conference on Information Retrieval (ECIR 2018), Grenoble, France; 03/2018
 
 * O-Joun Lee, Jason J. Jung: Explainable Movie Recommendation Systems by using Story-based Similarity. The workshop on Explainable Smart Systems (ExSS 2018), held in conjunction with the 23rd International Conference on Intelligent User Interfaces (IUI 2018), Tokyo, Japan; 03/2018
