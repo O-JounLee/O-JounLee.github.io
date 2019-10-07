@@ -5,12 +5,15 @@ categories: Project
 ---
 
 
-> "Narratives structure our understanding of the world and ourselves." 
-> [https://www.aaai.org/ocs/index.php/FSS/FSS10/paper/viewFile/2323/2834]
+> Narratives structure our understanding of the world and ourselves. <br>
+> [_(Lakoff and Narayanan, 2010)_](https://www.aaai.org/ocs/index.php/FSS/FSS10/paper/viewFile/2323/2834)
 
-* PI: Jason J. Jung
-
-* Participants: O-Joun Lee, Luong Vuong Nguyen, and Nayoung Jo
+Contributors
+======
+* O-Joun Lee
+* Jason J. Jung
+* Luong Vuong Nguyen
+* Nayoung Jo
 
 This research project aims to model and analyze stories of the narrative work (i.e., artworks that contain stories) computationally. Our previous studies on this area are mainly based on the character network (i.e., social networks between characters that appear in the narrative work). 
 
