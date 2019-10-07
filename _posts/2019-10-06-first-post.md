@@ -8,14 +8,13 @@ categories: Project
 > Narratives structure our understanding of the world and ourselves. <br>
 > [_(Lakoff and Narayanan, 2010)_](https://www.aaai.org/ocs/index.php/FSS/FSS10/paper/viewFile/2323/2834)
 
-Contributors
-======
-* O-Joun Lee
-* Jason J. Jung
-* Luong Vuong Nguyen
-* Nayoung Jo
+Abstract
+========
 
 This research project aims to model and analyze stories of the narrative work (i.e., artworks that contain stories) computationally. Our previous studies on this area are mainly based on the character network (i.e., social networks between characters that appear in the narrative work). 
+
+Related Topics
+========
 
 Student’s Involvement and Expected Outcomes: 
 
@@ -60,3 +59,11 @@ Related Contributions
 * Jason J. Jung, Eunsoon You, and Seung-Bo Park. "Emotion-based character clustering for managing story-based contents: a cinemetric analysis." Multimedia tools and applications 65.1 (2013): 29-45.
 
 * Seung-Bo Park, Eunsoon You, and Jason J. Jung. "Potential emotion word in movie dialog." in Proceedings of the International Conference on IT Convergence and Security 2011. Springer, Dordrecht, 2012.
+
+Contributors
+======
+* O-Joun Lee
+* Jason J. Jung
+* Luong Vuong Nguyen
+* Nayoung Jo
+
