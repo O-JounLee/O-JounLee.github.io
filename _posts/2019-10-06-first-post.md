@@ -62,8 +62,10 @@ Related Contributions
 
 Contributors
 ======
-* O-Joun Lee
 * Jason J. Jung
+* O-Joun Lee
+* Eunsoon You
+* Quang Dieu Tran
 * Luong Vuong Nguyen
 * Nayoung Jo
 
