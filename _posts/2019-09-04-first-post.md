@@ -155,6 +155,9 @@ Patents
 
 Academic Activities
 ============
+
+Conference Committee
+------------
 * Committee Member, The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea, 06/2019.
 
 * Member of Technical Program Committee, The 8th EAI International Conference on Big Data Technologies and Applications (BDTA 2017), Gwangju, Korea, 11/2017.
