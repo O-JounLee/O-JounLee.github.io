@@ -28,7 +28,7 @@ Student’s Involvement and Expected Outcomes:
 
 Implementations
 ======
-* Luong Vuong Nguyen: [Movie Similarity Collector](http://recsys.ke.cau.ac.kr:8084/movies/)
+* Luong Vuong Nguyen: [Movie Similarity Collector](http://recsys.cau.ac.kr:8084/movies/)
 
 * O-Joun Lee: Story2Vec, [github repository](https://github.com/O-JounLee/Story2Vec)
 
