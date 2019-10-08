@@ -68,10 +68,11 @@ Related Contributions
 
 Contributors
 ======
-* Jason J. Jung
-* O-Joun Lee
-* Eunsoon You
+* Jason J. Jung, Chung-Ang University
+* O-Joun Lee, POSTECH
+* Eunsoon You, Inha University
 * Quang Dieu Tran
-* Luong Vuong Nguyen
+* Luong Vuong Nguyen, Chung-Ang University
 * Nayoung Jo
+* Myeong-Yeon Yi
 
