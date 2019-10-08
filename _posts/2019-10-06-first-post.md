@@ -71,8 +71,8 @@ Contributors
 * Jason J. Jung, Chung-Ang University
 * O-Joun Lee, POSTECH
 * Eunsoon You, Inha University
-* Quang Dieu Tran
+* Quang Dieu Tran, Ho Chi Minh National Academy of Politics
 * Luong Vuong Nguyen, Chung-Ang University
-* Nayoung Jo
-* Myeong-Yeon Yi
+* Nayoung Jo, LG Electronics
+* Myeong-Yeon Yi, Clova AI
 
