@@ -11,6 +11,8 @@ categories: Project
 Abstract
 ========
 
+![KungFuPanda_LCharNet](https://user-images.githubusercontent.com/8544846/66375038-58eaa280-e9e7-11e9-919c-422cf80cfafb.png)
+
 This research project aims to model and analyze stories of the narrative work (i.e., artworks that contain stories) computationally. Our previous studies on this area are mainly based on the character network (i.e., social networks between characters that appear in the narrative work). 
 
 Related Topics
