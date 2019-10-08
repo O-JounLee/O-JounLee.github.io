@@ -36,11 +36,17 @@ Implementations
 
 Related Contributions
 ======
+* O-Joun Lee, Jason J. Jung: Integrating character networks for extracting narratives from multimodal data. Information Processing & Management 09/2019; 56(5):1894-1923., DOI:10.1016/j.ipm.2019.02.005
+
+* O-Joun Lee, Jason J. Jung: Computational Narrative Representation and Analytics. the 2nd International Conference on AI Humanities (ICAIH 2019), Seoul, Republic of Korea; 08/2019
+
+* O-Joun Lee, Jason J. Jung: Character Network Embedding-based Plot Structure Discovery in Narrative Multimedia. The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea; 06/2019, DOI:10.1145/3326467.3326485
+
+* O-Joun Lee, Jason J. Jung: Modeling affective character network for story analytics. Future Generation Computer Systems 03/2019; 92:458-478., DOI:10.1016/j.future.2018.01.030
+
 * O-Joun Lee, Nayoung Jo, Jason J. Jung: Measuring Character-based Story Similarity by Analyzing Movie Scripts. The 1st Workshop on Narrative Extraction From Text (Text2Story 2018), co-located with the 40th European Conference on Information Retrieval (ECIR 2018), Grenoble, France; 03/2018
 
 * O-Joun Lee, Jason J. Jung: Explainable Movie Recommendation Systems by using Story-based Similarity. The workshop on Explainable Smart Systems (ExSS 2018), held in conjunction with the 23rd International Conference on Intelligent User Interfaces (IUI 2018), Tokyo, Japan; 03/2018
-
-* O-Joun Lee, Jason J. Jung: Modeling affective character network for story analytics. Future Generation Computer Systems; DOI:10.1016/j.future.2018.01.030 (To appear)
 
 * Tran, Quang Dieu, Dosam Hwang, and Jason J. Jung. "Character-based indexing and browsing with movie ontology." Journal of Intelligent & Fuzzy Systems 32.2 (2017): 1229-1240.
 
