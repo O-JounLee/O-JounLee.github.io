@@ -18,18 +18,24 @@ Abstract
 
 This research project aims to model and analyze stories of the narrative work (i.e., artworks that contain stories) computationally. Our previous studies on this area are mainly based on the character network (i.e., social networks between characters that appear in the narrative work). 
 
-Related Topics
+Related Issues
 ========
 
-Student’s Involvement and Expected Outcomes: 
+Computational Narrative Models
+--------
 
-* Proposing a novel approach for modeling and analyzing stories. 
+* Extending the Character Network Model
 
-* Developing an application which utilizes the character network. 
+* Embracing Connotative and Semantic Features
 
-* Developing and refactoring 'Character Network Builder' with multiple data sources (e.g., the script, video, and audio of movies).
+Extracting Character Networks from Narrative Multimedia
+--------
 
-* Collecting data for experiments from real narrative works in various media, genres, and formats. 
+Analyzing Character Networks
+--------
+
+* 
+
 
 Implementations
 ======
