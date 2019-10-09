@@ -34,7 +34,7 @@ Extracting Character Networks from Narrative Multimedia
 Analyzing Character Networks
 --------
 
-* 
+* Measuring Similarity between Character Networks
 
 
 Implementations
