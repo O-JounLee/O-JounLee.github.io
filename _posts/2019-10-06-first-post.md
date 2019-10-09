@@ -11,7 +11,6 @@ categories: Project
 Abstract
 ========
 
-
 | ![KungFuPanda_LCharNet](https://user-images.githubusercontent.com/8544846/66375038-58eaa280-e9e7-11e9-919c-422cf80cfafb.png) | 
 |:--:| 
 | A character network extracted from a movie, 'Kung Fu Panda (2008).' |
@@ -20,6 +19,8 @@ This research project aims to model and analyze stories of the narrative work (i
 
 Related Issues
 ========
+
+In detail, there are further research issues that should be solved, as follows.
 
 Computational Narrative Models
 --------
