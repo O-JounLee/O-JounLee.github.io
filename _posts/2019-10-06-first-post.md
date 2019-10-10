@@ -15,7 +15,8 @@ Abstract
 |:--:| 
 | A character network extracted from a movie, 'Kung Fu Panda (2008).' |
 
-This research project aims to model and analyze stories of the narrative work (i.e., artworks that contain stories) computationally. Our previous studies on this area are mainly based on the character network (i.e., social networks between characters that appear in the narrative work). 
+This research project aims to computationally model and analyze stories contained in narrative multimedia (i.e., creative works that contain stories and are distributed through multimedia). 
+Our previous studies on this area are mainly based on character networks (i.e., social networks between characters that appear in narrative multimedia). 
 
 Related Issues
 ========
