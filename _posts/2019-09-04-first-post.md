@@ -27,17 +27,17 @@ Thesis
 
 Research Experience
 ============
-* Sep 2019 – present: Full-time Researcher, Pohang University of Science and Technology (POSTECH), Department of Creative IT Engineering, Pohang, Gyeongsangbuk-do, South Korea
+* Sep 2019 – present: Full-time Researcher, Future IT Innovation Laboratory, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsangbuk-do, South Korea
 
 * Sep 2018 – present: Technical Research Personnel, Alternative Military Service
 
-* Mar 2015 – Sep 2019: Researcher, Chung-Ang University, School of Computer Science and Engineering, Seoul, South Korea
+* Mar 2015 – Sep 2019: Researcher, Knowledge and Story Engineering Lab., School of Computer Science and Engineering, Chung-Ang University, Seoul, South Korea
 
-* Jul 2014 – Aug 2014: Intern, Korea Institute of Science and Technology Information (KISTI), Dept. of Computer Intelligence Research, Daejeon, South Korea
+* Jul 2014 – Aug 2014: Intern, Dept. of Computer Intelligence Research, Korea Institute of Science and Technology Information (KISTI), Daejeon, South Korea
 
-* Mar 2013 – Aug 2014: Research Associate, Dankook University, Institute of Media Contents, Yongin-si, Gyeonggi-do, South Korea
+* Mar 2013 – Aug 2014: Research Associate, Institute of Media Contents, Dankook University, Yongin-si, Gyeonggi-do, South Korea
 
-* May 2011 – Aug 2014: Undergraduate Researcher, Dankook University, Department of Software Science, Yongin-si, Gyeonggi-do, South Korea
+* May 2011 – Aug 2014: Undergraduate Researcher, Mobile Internet Contents Lab., Department of Software Science, Dankook University, Yongin-si, Gyeonggi-do, South Korea
 
 Awards & Grants
 ============
