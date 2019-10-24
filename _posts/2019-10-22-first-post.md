@@ -7,7 +7,7 @@ categories: Project
 Abstract
 ============
 
-This is an on-going project to represent stories and other narrative entities in the stories with a vector. 
+This is an on-going project to represent stories and other narrative entities in the stories with a vector, as a branch of StoryQ project. 
 To learn distributed representations of narrative entities, we mainly employ Word2Vec-based models. 
 
 Related Publications
