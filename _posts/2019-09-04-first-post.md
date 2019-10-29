@@ -41,11 +41,11 @@ Research Experience
 
 Awards & Grants
 ============
-* Apr 2019: '''Best Paper Award''', 2019 Spring Conference of Korea Institute of Smart Media (KISM) and Society for e-Business Studies (SEBS), Chungju, Korea
-* Sep 2017: '''Best Paper Award''', The 2nd International Workshop in Data Mining on IoT Systems (DaMIS 2017), Lund, Sweden
-* Aug 2017: '''Best Poster Award''', The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea
-* Nov 2016: '''Best Paper Award''', The 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea
-* Nov 2015: '''Best Paper Award''', The 4th EAI International Conference on Context-Aware Systems and Applications (ICCASA 2015), Vung Tau, Vietnam
+* Apr 2019: Best Paper Award, 2019 Spring Conference of Korea Institute of Smart Media (KISM) and Society for e-Business Studies (SEBS), Chungju, Korea
+* Sep 2017: Best Paper Award, The 2nd International Workshop in Data Mining on IoT Systems (DaMIS 2017), Lund, Sweden
+* Aug 2017: Best Poster Award, The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea
+* Nov 2016: Best Paper Award, The 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea
+* Nov 2015: Best Paper Award, The 4th EAI International Conference on Context-Aware Systems and Applications (ICCASA 2015), Vung Tau, Vietnam
 
 Journal Publications
 ============
