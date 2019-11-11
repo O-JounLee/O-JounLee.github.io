@@ -19,5 +19,6 @@ Submissions
 We invite the following two kinds of papers: 
 *	Research papers (Maximum 7 pages excluding references)
 *	Position papers and demos (Maximum 5 pages excluding references)
+
 All manuscripts have to be formatted according to the LNCS (Lecture Notes in Computer Science) template. Also, manuscripts must be submitted in PDF files though the following e-mail address. 
 *	ojlee112358@postech.ac.kr
