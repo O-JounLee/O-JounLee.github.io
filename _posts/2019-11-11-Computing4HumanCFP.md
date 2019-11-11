@@ -26,6 +26,21 @@ All manuscripts have to be formatted according to the LNCS (Lecture Notes in Com
 Organizing Committee
 ------------
 
+### General Co-Chairs
+
+TBA
+
+### Program Committee Chair
+
+TBA
+
+### Local Chairs
+
+TBA
+
+### Website Chair
+
+TBA
 
 Program Committee
 ------------
