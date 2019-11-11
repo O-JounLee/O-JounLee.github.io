@@ -22,3 +22,27 @@ We invite the following two kinds of papers:
 
 All manuscripts have to be formatted according to the LNCS (Lecture Notes in Computer Science) template. Also, manuscripts must be submitted in PDF files though the following e-mail address. 
 *	ojlee112358@postech.ac.kr
+
+Organizing Committee
+------------
+
+
+Program Committee
+------------
+
+TBA
+
+
+Important Dates/Tentative Schedule
+------------
+
+* Submission deadline: Jan. 15th, 2020
+* Acceptance Notification: Jan. 31st, 2020
+* Final manuscript due: Feb. 10th, 2020
+* Workshop: Feb. 22nd, 2020
+
+
+
+
+
+
