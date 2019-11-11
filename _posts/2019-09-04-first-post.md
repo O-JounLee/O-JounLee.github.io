@@ -49,7 +49,7 @@ Awards & Grants
 
 Journal Publications
 ============
-* Hyeon-Ju Jeon, O-Joun Lee, Jason J. Jung: Is Performance of Scholars Correlated to their Research Collaboration Patterns?. Frontiers in Big Data 10/2019; DOI:10.3389/fdata.2019.00039 (To Appear)
+* Hyeon-Ju Jeon, O-Joun Lee, Jason J. Jung: Is Performance of Scholars Correlated to their Research Collaboration Patterns?. Frontiers in Big Data 11/2019; 2(39)., DOI:10.3389/fdata.2019.00039
 
 * O-Joun Lee, Jason J. Jung: Integrating character networks for extracting narratives from multimodal data. Information Processing & Management 09/2019; 56(5):1894-1923., DOI:10.1016/j.ipm.2019.02.005
 
