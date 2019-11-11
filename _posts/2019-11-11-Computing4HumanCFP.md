@@ -13,3 +13,11 @@ However, at least, it is clear that these studies have been exploring terra inco
  
 This workshop aims to discuss novel research directions and contributions belonging to intersections between the two research communities. Thereby, we attempt to gather various opinions from different research areas, including computer science, computational linguistics, digital humanities, political science, economic, etc. At the beginning of this workshop series, we collect papers on interdisciplinary studies between computer science and humanities/social sciences, without any limitation.
 
+Submissions
+------------
+
+We invite the following two kinds of papers: 
+*	Research papers (Maximum 7 pages excluding references)
+*	Position papers and demos (Maximum 5 pages excluding references)
+All manuscripts have to be formatted according to the LNCS (Lecture Notes in Computer Science) template. Also, manuscripts must be submitted in PDF files though the following e-mail address. 
+*	ojlee112358@postech.ac.kr
