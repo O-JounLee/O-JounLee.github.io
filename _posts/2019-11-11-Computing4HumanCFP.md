@@ -4,7 +4,7 @@ date: 2019-11-11 09:26:28 -0400
 categories: CFP
 ---
 
-Call for Papers of the 1st International Workshop on Human-oriented Computing (Computing4Human 2020)
+Call for Papers of the 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020)
 ============
 
 With the rapid development of artificial intelligent (AI) techniques and the advent of IoT (Internet-of-Things) era, research subjects of humanities and social science have been becoming computational. For example, various studies have been conducted for computationally analyzing literature works, public opinions for political events, etc. Also, the influence of the spread of AI technology is getting an important research issue on humanities and social science. Due to smart applications surrounding us, the way how our everyday life will change stimulates our interests and imagination. Both two approaches start from respective research areas and attempt to explore opponent areas, maintaining their own perspectives. As preliminary studies, these studies have not had formalized research methodologies or well-established concepts/terminologies. This point makes interdisciplinary studies look fuzzy and ambiguous.
@@ -28,19 +28,21 @@ Organizing Committee
 
 ### General Co-Chairs
 
-TBA
+* Prof. Jin-Taek Kim, Pohang University of Science and Technology, Rep. of Korea
+* Prof. Jason J. Jung, Chung-Ang University, Rep. of Korea
 
 ### Program Committee Chair
 
-TBA
+* Dr. Eunsoon You, Inha University, Rep. of Korea
 
 ### Local Chairs
 
-TBA
+* Dr. O-Joun Lee, Pohang University of Science and Technology, Rep. of Korea
+* Mr. Hanseong Kim, Pohang University of Science and Technology, Rep. of Korea
 
 ### Website Chair
 
-TBA
+* Ms. Hyeon-Ju Jeon, Chung-Ang University, Rep. of Korea
 
 Program Committee
 ------------
@@ -51,10 +53,11 @@ TBA
 Important Dates/Tentative Schedule
 ------------
 
-* Submission deadline: Jan. 15th, 2020
+* Submission deadline: Jan. 10th, 2020
 * Acceptance Notification: Jan. 31st, 2020
-* Final manuscript due: Feb. 10th, 2020
-* Workshop: Feb. 22nd, 2020
+* Final manuscript due: Feb. 8th, 2020
+* Workshop: Feb. 15th, 2020
+
 
 
 
