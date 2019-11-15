@@ -1,11 +1,11 @@
 ---
-title: "Call for Papers of Computing4Human 2020"
+title: "Call for Papers of the 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020)"
 date: 2019-11-11 09:26:28 -0400
 categories: CFP
 ---
 
-Call for Papers of the 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020)
-============
+Aims and Scope
+------------
 
 With the rapid development of artificial intelligent (AI) techniques and the advent of IoT (Internet-of-Things) era, research subjects of humanities and social science have been becoming computational. For example, various studies have been conducted for computationally analyzing literature works, public opinions for political events, etc. Also, the influence of the spread of AI technology is getting an important research issue on humanities and social science. Due to smart applications surrounding us, the way how our everyday life will change stimulates our interests and imagination. Both two approaches start from respective research areas and attempt to explore opponent areas, maintaining their own perspectives. As preliminary studies, these studies have not had formalized research methodologies or well-established concepts/terminologies. This point makes interdisciplinary studies look fuzzy and ambiguous.
  
