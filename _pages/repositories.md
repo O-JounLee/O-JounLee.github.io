@@ -2,10 +2,12 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Open datasets and open source implementations created by members and collaborators of <a href="https://nslab-cuk.github.io/"  style=color:#389AC4> the Network Science Lab </a> are available via the following links.
+description: 
 nav: true
 nav_order: 4
 ---
+
+Open datasets and open source implementations created by members and collaborators of <a href="https://nslab-cuk.github.io/" style=color:#389AC4> the Network Science Lab </a> are available via the following links.
 
 ## GitHub users
 
