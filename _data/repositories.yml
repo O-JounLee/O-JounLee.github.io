@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - NSLab-CUK
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - NSLab-CUK/Unified-Graph-Transformer
+  - NSLab-CUK/Community-aware-Graph-Transformer
+  - NSLab-CUK/LiteralKG
+  - NSLab-CUK/Connector
+  - NSLab-CUK/Graph-Neural-Networks-Fall-2023
+  - NSLab-CUK/Graph-Mining-Spring-2024
+  - NSLab-CUK/Graph-Mining-Spring-2023
