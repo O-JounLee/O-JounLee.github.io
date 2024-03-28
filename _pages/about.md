@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor at <a href='#'>The Catholic University of Korea</a>
+subtitle: Assistant Professor at <a href='https://catholic.ac.kr/english/main.do'>The Catholic University of Korea</a>
 
 profile:
   align: right
