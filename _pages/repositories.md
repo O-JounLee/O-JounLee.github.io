@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-Open datasets and open source implementations created by members and collaborators of <a href="https://nslab-cuk.github.io/" style=color:#389AC4> the Network Science Lab </a> are available via the following links.
+Open datasets and open source implementations created by members and collaborators of [the Network Science Lab @CUK](https://nslab-cuk.github.io) are available via the following links.
 
 ## GitHub users
 
