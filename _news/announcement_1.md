@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined The Catholic University of Korea as an assistant professor (tenure-track). 
+I joined The Catholic University of Korea as an assistant professor (tenure-track) and founded [the Network Science Lab](https://nslab-cuk.github.io/) there. 
