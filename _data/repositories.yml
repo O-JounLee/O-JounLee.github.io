@@ -5,6 +5,7 @@ github_repos:
   - NSLab-CUK/Unified-Graph-Transformer
   - NSLab-CUK/Community-aware-Graph-Transformer
   - NSLab-CUK/LiteralKG
+  - NSLab-CUK/Context-Aware-Residual-Transformer
   - NSLab-CUK/Connector
   - NSLab-CUK/Graph-Neural-Networks-Fall-2023
   - NSLab-CUK/Graph-Mining-Spring-2024
