@@ -1,5 +1,6 @@
 github_users:
   - NSLab-CUK
+  - O-JounLee
 
 github_repos:
   - NSLab-CUK/Unified-Graph-Transformer
@@ -10,3 +11,7 @@ github_repos:
   - NSLab-CUK/Graph-Neural-Networks-Fall-2023
   - NSLab-CUK/Graph-Mining-Spring-2024
   - NSLab-CUK/Graph-Mining-Spring-2023
+  - O-JounLee/CharNetBuilder
+  - O-JounLee/CharNet-Extractor
+  - higd963/Collaboration2Vec 
+  - higd963/Multi-resolution-Network-Embedding
