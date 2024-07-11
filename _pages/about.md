@@ -19,3 +19,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 I also lead a research group called [the Network Science Lab](https://nslab-cuk.github.io/) at the Catholic University of Korea (CUK). Network science is a field of study that aims to reveal structural patterns in real-world interaction networks, such as social networks, bibliographic networks, power grids, and others. The Network Science Lab (NS Lab; 네트워크과학연구실), part of the [Department of AI](https://cukai.catholic.ac.kr/cukai/index.html) at CUK, conducts extensive research on a wide range of theories, methods, and applications related to the collection, representation, and analysis of networked data.
 
+***
+
+<a href="https://nslab-cuk.github.io/"><img src="https://github.com/NSLab-CUK/NSLab-CUK/raw/main/Logo_Dual_Wide.png" style="width : 100%"></a>
+
+***
