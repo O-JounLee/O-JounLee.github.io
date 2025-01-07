@@ -5,8 +5,6 @@ title: publications
 description: 
 nav: true
 nav_order: 2
-toc:
-  sidebar: left
 ---
 
 Full publications on [Google Scholar](https://scholar.google.co.kr/citations?user=43GFjoYAAAAJ=en). Asterisk (*) means equal contribution.
