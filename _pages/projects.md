@@ -3,6 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: 
+redirect: https://nslab-cuk.github.io/research/
 nav: true
 nav_order: 3
 display_categories: [work, fun]
