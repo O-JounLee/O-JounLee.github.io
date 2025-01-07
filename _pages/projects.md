@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 
+description: Graphs illustrate intricate patterns in our perception of the world and ourselves; graph mining enhances this comprehension by highlighting overlooked details.
 nav: true
 nav_order: 3
 display_categories: [research, teaching, fun]
