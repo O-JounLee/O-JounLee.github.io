@@ -7,8 +7,11 @@
     url: https://nslab-cuk.github.io/member/hoangvanthuy90
 
 "jung":
-  - firstname: ["Jason J."]
+  - firstname: ["Jason J.", "Jai E."]
     url: http://intelligent.pe.kr/
+
+  - firstname: ["Sungyeop"]
+    url: https://sites.google.com/view/sungyeopjung
 
 "lim":
   - firstname: ["Hae Gyun"]
@@ -17,3 +20,11 @@
 "choi":
   - firstname: ["Chang"]
     url: https://sites.google.com/site/phdchangchoi/
+
+"nguyen":
+  - firstname: ["Luong Vuong"]
+    url: https://luongvuongnguyen.github.io/
+
+"you":
+  - firstname: ["Eun-Soon", "Eunsoon"]
+    url: https://nslab-cuk.github.io/member/esyou
