@@ -103,6 +103,10 @@
         {{ content }}
       </d-article>
 
+      <script type="text/json" id="distill-citations">
+        {% bibliography --cited_in_order --format json %}
+      </script>
+
       <d-appendix>
         <d-footnote-list></d-footnote-list>
         <d-citation-list></d-citation-list>
