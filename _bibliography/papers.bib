@@ -1,39 +1,103 @@
 ---
 ---
 
-@CONFERENCE{Hoang202512456,
-	abbr={AAAI},
+@ARTICLE{Hoang2025,
+	author = {Hoang, Van Thuy and Jeon, Hyeon-Ju and Lee, O-Joun},
+	title = {Mitigating Degree Bias in Graph Representation Learning With Learnable Structural Augmentation and Structural Self-Attention},
+	year = {2025},
+	journal = {IEEE Transactions on Network Science and Engineering},
+	doi = {10.1109/TNSE.2025.3563697},
+	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-105003501840&doi=10.1109%2fTNSE.2025.3563697&partnerID=40&md5=9d2c6ec4468e8ab40122a19d69e39ca9},
+	abstract = {Graph Neural Networks (GNNs) update node representations through message passing, which is primarily based on the homophily principle, assuming that adjacent nodes share similar features. However, in real-world graphs with long-tailed degree distributions, high-degree nodes dominate message passing, causing a degree bias where low-degree nodes remain under-represented due to inadequate messages. The main challenge in addressing degree bias is how to discover non-adjacent nodes to provide additional messages to low-degree nodes while reducing excessive messages for high-degree nodes. Nevertheless, exploiting non-adjacent nodes to provide valuable messages is challenging, as it could generate noisy information and disrupt the original graph structures. To solve it, we propose a novel Degree Fairness Graph Transformer, named DegFairGT, to mitigate degree bias by discovering structural similarities between non-adjacent nodes through learnable structural augmentation and structural self-attention. Our key idea is to exploit non-adjacent nodes with similar roles in the same community to generate informative edges under our augmentation, which could provide informative messages between nodes with similar roles while ensuring that the homophily principle is maintained within the community. By considering the structural similarities among non-adjacent nodes to generate informative edges, DegFairGT can overcome the imbalanced messages while still preserving the graph structures. To enable DegFairGT to learn such structural similarities, we then propose a structural self-attention to capture the similarities between node pairs. To preserve global graph structures and prevent graph augmentation from hindering graph structure, we propose a Self-Supervised Learning task to preserve p-step transition probability and regularize graph augmentation. Extensive experiments on six datasets showed that DegFairGT outperformed state-of-the-art baselines in degree fairness analysis, node classification, and node clustering tasks. © 2013 IEEE.},
+	abbr={IEEE TNSE},
 	dimensions={true},
-	selected={true},
+	selected={true}
+}
+
+@CONFERENCE{Hoang202517204,
 	author = {Hoang, Van Thuy and Lee, O-Joun},
-	title = {Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck},
+	title = {Pre-Training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck},
 	year = {2025},
 	journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
-	abstract = {This study aims to build a pre-trained Graph Neural Network (GNN) model on molecules without human annotations or prior knowledge. Although various attempts have been proposed to overcome limitations in acquiring labeled molecules, the previous pre-training methods still rely on semantic subgraphs, i.e., functional groups. Only focusing on the functional groups could overlook the graph-level distinctions. The key challenge to build a pre-trained GNN on molecules is how to (1) generate well-distinguished graph-level representations and (2) automatically discover the functional groups without prior knowledge. To solve it, we propose a novel Subgraph-conditioned Graph Information Bottleneck, named S-CGIB, for pre-training GNNs to recognize core subgraphs (graph cores) and significant subgraphs. The main idea is that the graph cores contain compressed and sufficient information that could generate well-distinguished graph-level representations and reconstruct the input graph conditioned on significant subgraphs across molecules under the S-CGIB principle. To discover significant subgraphs without prior knowledge about functional groups, we propose generating a set of functional group candidates, i.e., ego networks, and using an attention-based interaction between the graph core and the candidates. Despite being identified from self-supervised learning, our learned subgraphs match the real-world functional groups. Extensive experiments on molecule datasets across various domains demonstrate the superiority of S-CGIB.}
+	volume = {39},
+	number = {16},
+	pages = {17204 – 17213},
+	doi = {10.1609/aaai.v39i16.33891},
+	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-105003960526&doi=10.1609%2faaai.v39i16.33891&partnerID=40&md5=514b9b3c3cf3f2673aee68cd451515ef},
+	abstract = {This study aims to build a pre-trained Graph Neural Network (GNN) model on molecules without human annotations or prior knowledge. Although various attempts have been proposed to overcome limitations in acquiring labeled molecules, the previous pre-training methods still rely on semantic subgraphs, i.e., functional groups. Only focusing on the functional groups could overlook the graph-level distinctions. The key challenge to build a pre-trained GNN on molecules is how to (1) generate well-distinguished graph-level representations and (2) automatically discover the functional groups without prior knowledge. To solve it, we propose a novel Subgraph-conditioned Graph Information Bottleneck, named S-CGIB, for pre-training GNNs to recognize core subgraphs (graph cores) and significant subgraphs. The main idea is that the graph cores contain compressed and sufficient information that could generate well-distinguished graph-level representations and reconstruct the input graph conditioned on significant subgraphs across molecules under the S-CGIB principle. To discover significant subgraphs without prior knowledge about functional groups, we propose generating a set of functional group candidates, i.e., ego networks, and using an attention-based interaction between the graph core and the candidates. Despite being identified from self-supervised learning, our learned subgraphs match the real-world functional groups. Extensive experiments on molecule datasets across various domains demonstrate the superiority of S-CGIB. Copyright © 2025, Association for the Advancement of Artificial Intelligence (www.aaai.org). All rights reserved.},
+	abbr={AAAI},
+	dimensions={true},
+	selected={true}
 }
 
-@ARTICLE{Le2025,
-	abbr={IEEE Access},
-	dimensions={true},
-	author = {Le, Tra Huong Thi and Dien, Nguyen Van and Nguyen, Luong Vuong and Nguyen, Tri-Hai and Lee, O-Joun},
-	title = {Transmission Power Optimization for Hybrid NOMA- URLLC System with STAR-RIS Assistance},
+@ARTICLE{Jung2025,
+	author = {Jung, Namgyu and Camacho, David and Choi, Chang and Lee, O.-Joun},
+	title = {Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks},
+	year = {2025},
+	journal = {Cognitive Computation},
+	volume = {17},
+	number = {2},
+	doi = {10.1007/s12559-025-10441-1},
+	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-105000755134&doi=10.1007%2fs12559-025-10441-1&partnerID=40&md5=67cd212e70e7a23d932e15fde6bc3163},
+	abstract = {Since most real-world network data include nodes and edges that evolve gradually, an embedding model for dynamic heterogeneous networks is crucial for network analysis. Transformer models have remarkable success in natural language processing but are rarely applied to learning representations of dynamic heterogeneous networks. In this study, we propose a new transformer model (DHG-BERT) that (i) constructs a dataset based on a network curriculum and (ii) includes pre/post-learning through self-supervised learning. Our proposed model learns complex relationships by leveraging an easier understanding of relationships through data reconstruction. Additionally, we use self-supervised learning to learn network structural features and temporal changes in structure and then fine-tune the proposed model by focusing on specific meta-paths by considering domain characteristics or target tasks. We evaluated the quality of the vector representation produced by the proposed transducer model using real bibliographic networks. Our model achieved an average accuracy of 0.94 in predicting research collaboration between researchers, outperforming existing models by a minimum of 0.13 and a maximum of 0.35. As a result, we confirmed that DHG-BERT is an effective transformer model tailored to dynamic heterogeneous network embeddings. Our study highlights the model’s ability to understand complex network relationships and appropriately capture the structural nuances and temporal changes inherent in networks. This study provides future research directions for applying the transformer model to real-world network data and a new approach to analyzing dynamic heterogeneous networks using transformers. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2025.},
+	abbr={Cog. Comp.},
+	dimensions={true}
+}
+
+@ARTICLE{Nguyen-Duc202595739,
+	author = {Nguyen-Duc, Minh and Nguyen, Luong Vuong and Nguyen-Ho-Nhat, Huy and Nguyen, Tri-Hai and Lee, O-Joun},
+	title = {A Comparative Study of Deep Audio Models for Spectrogram- and Waveform-Based SingFake Detection},
 	year = {2025},
 	journal = {IEEE Access},
-	doi = {10.1109/ACCESS.2025.3528251},
-	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85214802020&doi=10.1109%2fACCESS.2025.3528251&partnerID=40&md5=78143e41de0cea302f4f7ebe64c65329},
-	abstract = {The simultaneous transmitting and reflecting reconfigurable intelligent surface (STAR-RIS) has recently emerged as a cutting-edge technology for future wireless networks. In this paper, we explore an uplink STAR-RIS-enabled ultra-reliable and low-latency communications (URLLC) system utilizing hybrid non-orthogonal multiple access (NOMA). To enhance system performance, we pair one transmitting user with one reflecting user as a NOMA pair. Using a time division multiple access (TDMA) protocol among different pairs, our goal is to minimize the overall transmission power while meeting the individual reliability requirements of each user. This is achieved through joint optimization of block length and transmit power of users alongside beamforming design at the STAR-RIS. This non-convex optimization problem is then effectively approximated by estimating the channel dispersion in both the high signal-to-interference-plus-noise ratio (SINR) regime and across the entire practical SINR range. Then, we address this power minimization problem using an alternating optimization approach. Simulation results demonstrate the advantages of the proposed framework over conventional approaches, such as conventional RIS-based and OMA-based systems. Moreover, beamforming design, block-length optimization, and the rising of the element number of STAR-RIS significantly impact power reduction performance.  © 2013 IEEE.}
+	volume = {13},
+	pages = {95739 – 95752},
+	doi = {10.1109/ACCESS.2025.3571728},
+	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-105005597311&doi=10.1109%2fACCESS.2025.3571728&partnerID=40&md5=fabec4e3379ad36e6f6c5738dc69ac14},
+	abstract = {Recent advancements in singing voice synthesis have significantly improved the quality of artificial singing voices, raising concerns about their potential misuse in generating deepfake singing, or “singfake” voices. Detecting these synthetic voices presents unique challenges due to the complex nature of singing, which involves pitch, timbre, and accompaniment variations. In this study, we conduct a comparative analysis of two model types for singfake detection: (1) models utilizing Log-Mel spectrograms, such as Audio Spectrogram Transformer (AST) and Whisper, and (2) models that process raw waveform inputs, including UniSpeech-SAT and HuBERT. Our experiments on the SingFake dataset evaluate these models under two input conditions—separated vocal tracks and full song mixtures—across different test subsets. The results indicate that spectrogram-based models generally outperform waveform-based models, notably on unseen singers. Metrics such as Precision, Recall, F1-score, Equal Error Rate (EER), and Area Under the Curve (AUC) provide insights into the strengths and weaknesses of each approach. Our findings contribute to developing more effective deepfake singing detection methods, with implications for security, media authentication, and digital content protection. © 2013 IEEE.},
+	abbr={IEEE Access},
+	dimensions={true}
 }
 
-@ARTICLE{Hoang2025,
+@ARTICLE{Wu202578895,
+	author = {Wu, Yanjun and Vuong Nguyen, Luong and Lee, O-Joun},
+	title = {Capturing Semantic Relationships Using Full Dependency Forests to Improve Consistency in Long Document Summarization},
+	year = {2025},
+	journal = {IEEE Access},
+	volume = {13},
+	pages = {78895 – 78904},
+	doi = {10.1109/ACCESS.2025.3565823},
+	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-105003920015&doi=10.1109%2fACCESS.2025.3565823&partnerID=40&md5=de7dff831b4411925e679a1290ac418b},
+	abstract = {There are complex discourse relationships between sentences, which can be viewed as a tree structure. This semantic structure provides important information for summarization and helps to generate concise and coherent summaries. However, current neural network-based models usually treat articles as simple sentence sequences, ignoring the intrinsic structure. To integrate discourse tree information, we propose a generative summarization model that incorporates tree structure. The article’s structure can be more accurately captured by this model, which can also produce succinct summaries by leveraging the semantic dependencies of the source material. Also, since large models are difficult to apply in downstream tasks, we try to add noise to the pre-training parameters to improve the performance of the model on the long document summarization task. Experimental results show that our model ROUGE scores outperform the state-of-the-art best models in both pubMed and arXiv datasets. We further performed human evaluation, and N-gram evaluation. The results show that our method also improves the cohesiveness and semantic coherence of abstracts. © 2013 IEEE.},
 	abbr={IEEE Access},
-	dimensions={true},
+	dimensions={true}
+}
+
+@ARTICLE{Le202550216,
+	author = {Le, Tra Huong Thi and Dien, Nguyen Van and Nguyen, Luong Vuong and Nguyen, Tri-Hai and Lee, O-Joun},
+	title = {Transmission Power Optimization for Hybrid NOMA-URLLC System With STAR-RIS Assistance},
+	year = {2025},
+	journal = {IEEE Access},
+	volume = {13},
+	pages = {50216 – 50225},
+	doi = {10.1109/ACCESS.2025.3528251},
+	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-105001556198&doi=10.1109%2fACCESS.2025.3528251&partnerID=40&md5=ea8d723513ed789c4a1204ff030aac0a},
+	abstract = {The simultaneous transmitting and reflecting reconfigurable intelligent surface (STAR-RIS) has recently emerged as a cutting-edge technology for future wireless networks. In this paper, we explore an uplink STAR-RIS-enabled ultra-reliable and low-latency communications (URLLC) system utilizing hybrid non-orthogonal multiple access (NOMA). To enhance system performance, we pair one transmitting user with one reflecting user as a NOMA pair. Using a time division multiple access (TDMA) protocol among different pairs, our goal is to minimize the overall transmission power while meeting the individual reliability requirements of each user. This is achieved through joint optimization of block length and transmit power of users alongside beamforming design at the STAR-RIS. This non-convex optimization problem is then effectively approximated by estimating the channel dispersion in both the high signal-to-interference-plus-noise ratio (SINR) regime and across the entire practical SINR range. Then, we address this power minimization problem using an alternating optimization approach. Simulation results demonstrate the advantages of the proposed framework over conventional approaches, such as conventional RIS-based and OMA-based systems. Moreover, beamforming design, block-length optimization, and the rising of the element number of STAR-RIS significantly impact power reduction performance. © 2013 IEEE.},
+	abbr={IEEE Access},
+	dimensions={true}
+}
+
+@ARTICLE{Hoang202515158,
 	author = {Hoang, Van Thuy and Do, Tien-Bach-Thanh and Seo, Jinho and Kim, Seung Charlie and Nguyen, Luong Vuong and Huy, Duong Nguyen Minh and Jeon, Hyeon-Ju and Lee, O-Joun},
 	title = {Halal or Not: Knowledge Graph Completion for Predicting Cultural Appropriateness of Daily Products},
 	year = {2025},
 	journal = {IEEE Access},
+	volume = {13},
+	pages = {15158 – 15167},
 	doi = {10.1109/ACCESS.2025.3528488},
 	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85215235116&doi=10.1109%2fACCESS.2025.3528488&partnerID=40&md5=55b62b8a85f13b19f6afcea518e37317},
-	abstract = {The growing demand for halal cosmetic products has exposed significant challenges, especially in Muslim-majority countries. Recently, various machine learning-based strategies, e.g., image-based methods, have been proposed to predict the halal status of cosmetics. However, these methods mainly focus on analyzing the discrete and specific ingredients within separate cosmetics, which ignore the high-order and complex relations between cosmetics and ingredients. To address this problem, we propose a halal cosmetic recommendation framework, namely HaCKG, that leverages a knowledge graph of cosmetics and their ingredients to explicitly model and capture the relationships between cosmetics and their components. By representing cosmetics and ingredients as entities within the knowledge graph, HaCKG effectively learns the high-order and complex relations between entities, offering a robust method for predicting halal status. Specifically, we first construct a cosmetic knowledge graph representing the relations between various cosmetics, ingredients, and their properties. We then propose a pre-trained relational graph attention network model with residual connections to learn the structural relation between entities in the knowledge graph. The pre-trained model is then fine-tuned on downstream cosmetic data to predict halal status. Extensive experiments on the cosmetic dataset over halal prediction tasks demonstrate the superiority of our model over state-of-the-art baselines.  © 2013 IEEE.}
+	abstract = {The growing demand for halal cosmetic products has exposed significant challenges, especially in Muslim-majority countries. Recently, various machine learning-based strategies, e.g., image-based methods, have shown remarkable success in predicting the halal status of cosmetics. However, these methods mainly focus on analyzing the discrete and specific ingredients within separate cosmetics, which ignore the high-order and complex relations between cosmetics and ingredients. To address this problem, we propose a halal cosmetic recommendation framework, namely HaCKG, that leverages a knowledge graph of cosmetics and their ingredients to explicitly model and capture the relationships between cosmetics and their components. By representing cosmetics and ingredients as entities within the knowledge graph, HaCKG effectively learns the high-order and complex relations between entities, offering a robust method for predicting halal status. Specifically, we first construct a cosmetic knowledge graph representing the relations between various cosmetics, ingredients, and their properties. We then propose a pre-trained relational graph attention network model with residual connections to learn the structural relation between entities in the knowledge graph. The pre-trained model is then fine-tuned on downstream cosmetic data to predict halal status. Extensive experiments on the cosmetic dataset over halal prediction tasks demonstrate the superiority of our model over state-of-the-art baselines.  © 2025 The Authors.},
+	abbr={IEEE Access},
+	dimensions={true}
 }
 
 @ARTICLE{HO202488,
