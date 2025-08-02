@@ -44,7 +44,7 @@ Graph Transformer 모델들이 지역적/전역적 구조 정보를 최대한 �
 우리는 이를 위한 Graph Transformers의 구조 정보를 주입하기 위한 개선 방향성을 Node Feature Modulation, Context Node Sampling, Graph Rewriting (혹은 Rewiring), Transformer Architecture Improvements의 네 가지로 분류하고 여기에 대한 우리의 생각을 Short Survey 형태로 정리했다.
 
 
-## Node Feature Modulation  
+# Node Feature Modulation  
 
 첫 번째 축은 구조 정보를 초기 노드 특징 벡터에 주입하는 방식으로 자연어처리 분야에서 토큰의 순서나 문장 구분을  Positional encoding을 통해 전달하는 것과 비슷한 접근이다.
 대표적인 방법은 Laplacian eigenvector를 Positional encoding으로 사용하는 방식이다. 
@@ -57,7 +57,7 @@ SPD의 경우에는 전역적 구조 상에서 목표 노드의 상대적 위치
 이외에도 Graph kernel로 많이 활용되는 다양한 구조적 특징들이 Positional encoding, Initial residual, Attention score 등을 통해 모델에 추가적인 입력으로 제공되거나, Graph augmentation이나 Node sampling에 활용된다.
 
 
-## Context Node Sampling  
+# Context Node Sampling  
 
 두 번째 축은 Graph Transformer의 Receptive filed, 즉, 목표 노드의 Context 노드 집합을 어떻게 정의할지에 대한 문제다. 
 모든 입력 토큰 사이에 정보를 전파하는 Transformer는 노드 간 인접성 정보를 훼손할 수 있으며, 일반적으로 1-hop 이웃을 Context의 범위로 하는 Graph Neural Network 모델들은 Long-range Dependecy 문제와 여기서 이어지는 Over-smoothing이나 Over-squashing 문제들을 마주하기 마련이다. 
@@ -69,7 +69,7 @@ SPD의 경우에는 전역적 구조 상에서 목표 노드의 상대적 위치
 이런 결과들은 구조적으로 의미 있는 정보는 지역적 연결성만이 아니라 전역적인 Context에서 비롯된다는 점을 뒷받침한다.
 
 
-## Graph Rewriting  
+# Graph Rewriting  
 
 세 번째 축은 그래프 자체를 재구성하거나 변형하여 구조 특징을 반영하고 Attention score의 계산 범위를 조정하는 방식이다. 
 노드 샘플링을 바탕으로 하는 방법들이 목표 노드와 연결성이나 구조적 유사성을 갖는 노드들을 Context 노드 집합에 포함시키는 것과 달리, 그래프 재구성의 경우 이런 노드들을 목표 노드와 연결하는 (Virtual) 엣지를 추가한다.
@@ -81,7 +81,7 @@ GT나 SAN처럼 Context 노드 집합 내의 모든 노드를 완전히 연결�
 이런 문제들을 해결하기 위한 Adaptive sparsification에 대한 연구가 필요한 이유이다.
 
 
-## Architecture Improvements  
+# Architecture Improvements  
 
 네 번째 축은 Transformer 자체의 구조 및 Attention Mechanism을 개선하여 구조 정보를 학습하도록 하는 방향이다. 
 구조 식별력은 구조적으로 다른 노드 쌍 혹은 그래프 쌍에 대해 식별 가능한 벡터 표현을 부여하느냐에 대한 문제로, GIN 등의 널리 알려진 모델들을 통해 논의된 바와 같이 모델 자체가 구조와 벡터 표현을 1:1 맵핑할 수 있을 정도의 표현력을 갖느냐하는 문제가 가장 주요하다.
