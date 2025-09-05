@@ -9,13 +9,13 @@
 	doi = {10.1109/TNSE.2025.3563697},
 	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-105003501840&doi=10.1109%2fTNSE.2025.3563697&partnerID=40&md5=9d2c6ec4468e8ab40122a19d69e39ca9},
 	abstract = {Graph Neural Networks (GNNs) update node representations through message passing, which is primarily based on the homophily principle, assuming that adjacent nodes share similar features. However, in real-world graphs with long-tailed degree distributions, high-degree nodes dominate message passing, causing a degree bias where low-degree nodes remain under-represented due to inadequate messages. The main challenge in addressing degree bias is how to discover non-adjacent nodes to provide additional messages to low-degree nodes while reducing excessive messages for high-degree nodes. Nevertheless, exploiting non-adjacent nodes to provide valuable messages is challenging, as it could generate noisy information and disrupt the original graph structures. To solve it, we propose a novel Degree Fairness Graph Transformer, named DegFairGT, to mitigate degree bias by discovering structural similarities between non-adjacent nodes through learnable structural augmentation and structural self-attention. Our key idea is to exploit non-adjacent nodes with similar roles in the same community to generate informative edges under our augmentation, which could provide informative messages between nodes with similar roles while ensuring that the homophily principle is maintained within the community. By considering the structural similarities among non-adjacent nodes to generate informative edges, DegFairGT can overcome the imbalanced messages while still preserving the graph structures. To enable DegFairGT to learn such structural similarities, we then propose a structural self-attention to capture the similarities between node pairs. To preserve global graph structures and prevent graph augmentation from hindering graph structure, we propose a Self-Supervised Learning task to preserve p-step transition probability and regularize graph augmentation. Extensive experiments on six datasets showed that DegFairGT outperformed state-of-the-art baselines in degree fairness analysis, node classification, and node clustering tasks. © 2013 IEEE.},
-	abbr={IEEE TNSE},
 	dimensions={true},
 	video={https://www.youtube.com/embed/dp1h6ANz6LM},
 	code={https://github.com/NSLab-CUK/Community-aware-Graph-Transformer},
 	blog={https://nslab-cuk.github.io/2023/12/27/CGT/},
 	selected={true},
-	preview={CGT.jpg}
+	preview={CGT.jpg},
+	abbr={IEEE TNSE}
 }
 
 @InProceedings{Hoang202517204,
@@ -29,13 +29,13 @@
 	doi = {10.1609/aaai.v39i16.33891},
 	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-105003960526&doi=10.1609%2faaai.v39i16.33891&partnerID=40&md5=514b9b3c3cf3f2673aee68cd451515ef},
 	abstract = {This study aims to build a pre-trained Graph Neural Network (GNN) model on molecules without human annotations or prior knowledge. Although various attempts have been proposed to overcome limitations in acquiring labeled molecules, the previous pre-training methods still rely on semantic subgraphs, i.e., functional groups. Only focusing on the functional groups could overlook the graph-level distinctions. The key challenge to build a pre-trained GNN on molecules is how to (1) generate well-distinguished graph-level representations and (2) automatically discover the functional groups without prior knowledge. To solve it, we propose a novel Subgraph-conditioned Graph Information Bottleneck, named S-CGIB, for pre-training GNNs to recognize core subgraphs (graph cores) and significant subgraphs. The main idea is that the graph cores contain compressed and sufficient information that could generate well-distinguished graph-level representations and reconstruct the input graph conditioned on significant subgraphs across molecules under the S-CGIB principle. To discover significant subgraphs without prior knowledge about functional groups, we propose generating a set of functional group candidates, i.e., ego networks, and using an attention-based interaction between the graph core and the candidates. Despite being identified from self-supervised learning, our learned subgraphs match the real-world functional groups. Extensive experiments on molecule datasets across various domains demonstrate the superiority of S-CGIB. Copyright © 2025, Association for the Advancement of Artificial Intelligence (www.aaai.org). All rights reserved.},
-	abbr={AAAI},
 	dimensions={true},
 	video={https://www.youtube.com/embed/o6dW0dbayb8},
 	code={https://github.com/NSLab-CUK/S-CGIB},
 	blog={https://nslab-cuk.github.io/2024/12/19/SCGIB/},
 	selected={true},
-	preview={SCGIB.jpg}
+	preview={SCGIB.jpg},
+	abbr={AAAI}
 }
 
 @ARTICLE{Jung2025,
@@ -48,9 +48,9 @@
 	doi = {10.1007/s12559-025-10441-1},
 	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-105000755134&doi=10.1007%2fs12559-025-10441-1&partnerID=40&md5=67cd212e70e7a23d932e15fde6bc3163},
 	abstract = {Since most real-world network data include nodes and edges that evolve gradually, an embedding model for dynamic heterogeneous networks is crucial for network analysis. Transformer models have remarkable success in natural language processing but are rarely applied to learning representations of dynamic heterogeneous networks. In this study, we propose a new transformer model (DHG-BERT) that (i) constructs a dataset based on a network curriculum and (ii) includes pre/post-learning through self-supervised learning. Our proposed model learns complex relationships by leveraging an easier understanding of relationships through data reconstruction. Additionally, we use self-supervised learning to learn network structural features and temporal changes in structure and then fine-tune the proposed model by focusing on specific meta-paths by considering domain characteristics or target tasks. We evaluated the quality of the vector representation produced by the proposed transducer model using real bibliographic networks. Our model achieved an average accuracy of 0.94 in predicting research collaboration between researchers, outperforming existing models by a minimum of 0.13 and a maximum of 0.35. As a result, we confirmed that DHG-BERT is an effective transformer model tailored to dynamic heterogeneous network embeddings. Our study highlights the model’s ability to understand complex network relationships and appropriately capture the structural nuances and temporal changes inherent in networks. This study provides future research directions for applying the transformer model to real-world network data and a new approach to analyzing dynamic heterogeneous networks using transformers. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2025.},
-	abbr={Cog. Comp.},
 	dimensions={true},
-	preview={DHG-BERT.jpg}
+	preview={DHG-BERT.jpg},
+	abbr={Cog. Comp.}
 }
 
 @ARTICLE{Nguyen-Duc202595739,
@@ -105,11 +105,11 @@
 	doi = {10.1109/ACCESS.2025.3528488},
 	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85215235116&doi=10.1109%2fACCESS.2025.3528488&partnerID=40&md5=55b62b8a85f13b19f6afcea518e37317},
 	abstract = {The growing demand for halal cosmetic products has exposed significant challenges, especially in Muslim-majority countries. Recently, various machine learning-based strategies, e.g., image-based methods, have shown remarkable success in predicting the halal status of cosmetics. However, these methods mainly focus on analyzing the discrete and specific ingredients within separate cosmetics, which ignore the high-order and complex relations between cosmetics and ingredients. To address this problem, we propose a halal cosmetic recommendation framework, namely HaCKG, that leverages a knowledge graph of cosmetics and their ingredients to explicitly model and capture the relationships between cosmetics and their components. By representing cosmetics and ingredients as entities within the knowledge graph, HaCKG effectively learns the high-order and complex relations between entities, offering a robust method for predicting halal status. Specifically, we first construct a cosmetic knowledge graph representing the relations between various cosmetics, ingredients, and their properties. We then propose a pre-trained relational graph attention network model with residual connections to learn the structural relation between entities in the knowledge graph. The pre-trained model is then fine-tuned on downstream cosmetic data to predict halal status. Extensive experiments on the cosmetic dataset over halal prediction tasks demonstrate the superiority of our model over state-of-the-art baselines.  © 2025 The Authors.},
-	abbr={IEEE Access},
 	code={https://github.com/NSLab-CUK/Halal-or-Not},
 	blog={https://nslab-cuk.github.io/2025/01/08/HaCKG/},
 	dimensions={true},
-	preview={HaCKG.jpg}
+	preview={HaCKG.jpg},
+	abbr={IEEE Access}
 }
 
 @InProceedings{HO202488,
@@ -184,7 +184,6 @@
 }
 
 @InProceedings{Hoang202412456,
-	abbr={AAAI},
 	dimensions={true},
 	selected={true},
 	author = {Hoang, Van Thuy and Lee, O-Joun},
@@ -200,11 +199,11 @@
 	code={https://github.com/NSLab-CUK/Unified-Graph-Transformer},
 	blog={https://nslab-cuk.github.io/2023/08/17/UGT/},
 	preview={UGT.jpg},
+	abbr={AAAI},
 	abstract = {Graph representation learning (GRL) methods, such as graph neural networks and graph transformer models, have been successfully used to analyze graph-structured data, mainly focusing on node classification and link prediction tasks. However, the existing studies mostly only consider local connectivity while ignoring long-range connectivity and the roles of nodes. In this paper, we propose Unified Graph Transformer Networks (UGT) that effectively integrate local and global structural information into fixed-length vector representations. First, UGT learns local structure by identifying the local substructures and aggregating features of the k-hop neighborhoods of each node. Second, we construct virtual edges, bridging distant nodes with structural similarity to capture the long-range dependencies. Third, UGT learns unified representations through self-attention, encoding structural distance and p-step transition probability between node pairs. Furthermore, we propose a self-supervised learning task that effectively learns transition probability to fuse local and global structural features, which could then be transferred to other downstream tasks. Experimental results on real-world benchmark datasets over various downstream tasks showed that UGT significantly outperformed baselines that consist of state-of-the-art models. In addition, UGT reaches the third-order Weisfeiler-Lehman power to distinguish non-isomorphic graph pairs. Copyright © 2024, Association for the Advancement of Artificial Intelligence (www.aaai.org). All rights reserved.}
 }
 
 @ARTICLE{Jeon2024,
-	abbr={MLST},
 	dimensions={true},
 	author = {Jeon, Hyeon-Ju and Kang, Jeon-Ho and Kwon, In-Hyuk and Lee, O-Joun},
 	title = {Observation impact explanation in atmospheric state estimation using hierarchical message-passing graph neural networks},
@@ -215,6 +214,7 @@
 	doi = {10.1088/2632-2153/ad8981},
 	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85209116990&doi=10.1088%2f2632-2153%2fad8981&partnerID=40&md5=2696038b0b947eb37c151cc863ea4a7b},
 	preview={MLST.jpg},
+	abbr={MLST},
 	abstract = {The impact of meteorological observations on weather forecasting varies with the sensor type, location, time, and other environmental factors. Thus, the quantitative analysis of observation impacts is crucial for the effective and efficient development of weather forecasting systems. However, existing impact analysis methods are dependent on specific forecast systems, because system-specific adjoint models are used and the sensitivity of the observation to the forecast is measured. This study investigates the impact of observations on atmospheric state estimation in weather forecasting systems by developing a novel graph neural network (GNN) model specialized for analyzing the heterogeneous relations between observations and atmospheric states. The observation impact can then be assessed by applying explainable methods to the proposed GNN model, which is independent of forecasting systems. Further, we develop a novel application called ‘CloudNine,’ a system that provides impact analysis for individual observations with visualization. Our GNN model comprises hierarchical message-passing modules that separately analyze spatial correlations between observations at close locations and atmospheric states at close locations and then examine correlations between observations and atmospheric states. To consider the different factors influencing these correlations, we utilized geo-coordinates and types of observations in the attention mechanism of the modules with their feature vectors. We then applied gradient-based explainability methods to quantify the significance of the different observations in the estimation. Evaluated using data from 11 satellites and land-based observations, the results highlight the effectiveness of the proposed model and the visualization of observation impacts, enhancing the understanding and optimization of observational data in weather forecasting. © 2024 The Author(s). Published by IOP Publishing Ltd.}
 }
 
@@ -353,7 +353,6 @@
 }
 
 @ARTICLE{Jung20241,
-	abbr={IEEE IoT J},
 	dimensions={true},
 	author = {Jung, Nam Gyu and Hoang, Van Thuy and Lee, O-Joun and Choi, Chang},
 	title = {Kiosk Recommend System Based On Self-Supervised Representation Learning of User Behaviors in Offline Retail},
@@ -367,7 +366,8 @@
 	code={https://github.com/NSLab-CUK/Context-Aware-Residual-Transformer},
 	blog={https://nslab-cuk.github.io/2024/04/20/CART/},
 	issn = {23274662},
-	preview={CART.jpg}
+	preview={CART.jpg},
+	abbr={IEEE IoT J}
 }
 
 @InProceedings{Park20231112,
@@ -400,7 +400,6 @@
 }
 
 @ARTICLE{Lee2021,
-	abbr={JOI},
 	dimensions={true},
 	author = {Lee, O-Joun and Jeon, Hyeon-Ju and Jung, Jason J.},
 	title = {Learning multi-resolution representations of research patterns in bibliographic networks},
@@ -413,7 +412,8 @@
 	abstract = {This study aims at representing research patterns of bibliographic entities (e.g., scholars, papers, and venues) with a fixed-length vector. Bibliographic network structures rooted in the entities are incredibly diverse, and this diversity increases in the outstanding entities. Thus, despite their significant volume, the outstanding entities obtain minimal learning opportunities, whereas low-performance entities are over-represented. This study solves the problem by representing the patterns of the entities rather than depicting individual entities in a precise manner. First, we describe structures rooted in the entities using the Weisfeiler-Lehman (WL) relabeling process. Each subgraph generated by the relabeling process provides information on the scholars, kinds of papers they published, standards of venues in which the papers were published, and types of their collaborators. We assume that a subgraph depicts the research patterns of bibliographic entities, such as the preference of a scholar in choosing either a few highly impactful papers or numerous papers of moderate impact. Then, we simplify the subgraphs according to multiple levels of detailedness. Original subgraphs represent the individuality of the entities, and simplified subgraphs represent the entities sharing the same research patterns. In addition, simplified subgraphs balance the learning opportunities of high- and low-performance entities by co-occurring with both types of entities. We embed the subgraphs using the Skip-Gram method. If the results of the embedding represent the research patterns of the entities, the obtained vectors should be able to represent various aspects of the research performance in both the short-term and long-term durations regardless of the performances of the entities. Therefore, we conducted experiments for predicting 23 performance indicators during four time periods for four performance groups (top 1%, 5%, 10%, and all entities) using only the vector representations. The proposed model outperformed the existing network embedding methods in terms of both accuracy and variance.  © 2020 Elsevier Ltd.},
 	publisher = {Elsevier Ltd},
 	issn = {17511577},
-	preview={JOI.jpg}
+	preview={JOI.jpg},
+	abbr={JOI}
 }
 
 @ARTICLE{Bui202075,
@@ -651,7 +651,6 @@
 }
 
 @ARTICLE{Hoang2023114238,
-	abbr={IEEE Access},
 	dimensions={true},
 	author = {Hoang, Van Thuy and Nguyen, Thanh Sang and Lee, Sangmyeong and Lee, Jooho and Nguyen, Luong Vuong and Lee, O-Joun},
 	title = {Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning},
@@ -666,7 +665,8 @@
 	code={https://github.com/NSLab-CUK/LiteralKG},
 	blog={https://nslab-cuk.github.io/2023/08/30/LiteralKG/},
 	issn = {21693536},
-	preview={LiteralKG.jpg}
+	preview={LiteralKG.jpg},
+	abbr={IEEE Access}
 }
 
 @ARTICLE{Lee20191894,
